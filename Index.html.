@@ -1,0 +1,66 @@
+<html>
+<head>
+  <!-- write your hero's name here in the <title> element  -->
+  <title>Rose Lavelle</title>
+</head>
+
+
+<body>
+
+  <div>
+    <div>
+      <div>
+        <div>
+          <!-- Main Heading; Give the person's name; use <h1> -->
+          <h1>Rose Lavelle</h1>
+          <!-- Subheading; use <h2>  -->
+          <h2>Young and talented</h2>
+          <div>
+            <!-- place and image here; use an image already on the internet --><img class="irc_mi" src="https://pbs.twimg.com/profile_images/1092650408164638720/JzbmiH-d_400x400.jpg" width="390" height="390" style="" alt="Image result for rose lavelle">
+
+            <!-- place a caption under your picture which explains the picture -->play in the in the She Belives Cup
+            <div>      </div>
+          </div>
+          <div>
+            <!-- heading; use <h3>  -->
+            <h3>Life</h3>
+            <!-- write a paragraph explaining why your person is so great  -->
+            <p>Rose was born in Cincinnati Ohio, on May 14,1995. As a young child she played soccer all her life. In a thrid grade book report she decide to write about Mia Hamm. Once she was the age to play competive soccer with a team called Lakota United Soccer Club
+  and then with other team called Cincinnati United Premier. When she was in high school she made Varsity all 4 years with team called Mount Norte Dame High School. During her junior and senior year she was awarded with NSCAA All Region. With the end
+  of her high school career she ended with 57 goals. She Later on played for Wisconsin Bagers and was ranked Freshman of the year.
+            </p>
+          </div>
+          <div>
+            <!-- Timeline heading; use <h3>  -->
+            <h3>Her timline</h3>
+            <!-- create a timeline using an unordered list -->
+            <li><strong> May 1995</strong> She was born on May 14,1995.</li>
+            <li><strong> 2004</strong> She started to playing comptive soccer</li>
+            <li><strong> 2009 </strong>Made the Varsity</li> 
+            <li><strong>2012</strong> She was named all region player of the year.</li>
+            <li><strong> 2013-2016</strong> She played college ball.</strong>
+          <li><strong>2016-now</strong> Plays Pro soccer</li> 
+  
+
+            <blockquote>
+              <!-- use the <p> to display a famous quote from your hero -->
+              <p> “I want to keep getting better so that I can have more fun,the better I am, the more fun I'm having.”  </p>
+     -Rose Lavelle         <!-- don't forget the quoter's name here -->
+              <footer><cite>&nbsp;&nbsp;&nbsp;        </cite></footer>
+            </blockquote>
+            <!-- using the <h3> and the <a>, invite the reader to visit a wiki page concerning your hero  -->
+            <h3>Read more at 
+              https://en.wikipedia.org/wiki/Rose_Lavelle</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <!--  use the <hr> to create a horizontal line separating the footer section --> <hr>
+
+      <!--  using the <p>, take ownership of your page  -->
+      <p>     Laura Magallon    </p>
+    </footer>
+  </div>
+</body>
+</html>
